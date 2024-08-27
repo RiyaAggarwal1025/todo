@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+ }
+ #task{
+     padding: 20px 60px 20px 5px;
+ }
+ #submit{
+     padding: 20px 60px 20px 5px;
+     justify-content: center;
+     background-color: lightblue;
+     border: 2px solid lightblue;
+     font-weight: bold;
+ }
+ ul{
+     list-style-type: none;
+     padding: 0px;
+ }
+ .div{
+     display: flex;
+     margin:5px 30% 15px 30%;
+     border:1px solid black;
+     padding:5px;
+     justify-content: space-between;
+ }
+ .boxUpdate{
+    padding:0px;
+ }
